@@ -6,8 +6,4 @@ public class DevOps {
         System.out.println("Hello");
         //commentaire from dev
     }
-
-
-    
-
 }
